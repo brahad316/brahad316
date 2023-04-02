@@ -2,7 +2,7 @@
 <h2>I'm into IoT, hardware, image processing and photography.</h3>
 
 
-email: **brahad.kokad@research.iiit.ac.in**
+Email me at: **brahad.kokad@research.iiit.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,7 +14,7 @@ email: **brahad.kokad@research.iiit.ac.in**
 <p align="left"> 
 
   <a href="https://www.verilog.com/" target="_blank" rel="noreferrer"> 
-  <img src="!https://user-images.githubusercontent.com/94699627/229367114-8aaaf6f4-85c8-4c71-8fa1-9f916d1dd3da.png" alt="verilog" width="40" height="40"/> 
+  <img src="https://user-images.githubusercontent.com/94699627/229367114-8aaaf6f4-85c8-4c71-8fa1-9f916d1dd3da.png" alt="verilog" width="40" height="40"/> 
   </a> 
   
   <a href="https://in.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
