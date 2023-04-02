@@ -11,11 +11,7 @@ Email me at: **brahad.kokad@research.iiit.ac.in**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-
-  <a href="https://www.verilog.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/94699627/229367114-8aaaf6f4-85c8-4c71-8fa1-9f916d1dd3da.png" alt="verilog" width="40" height="40"/> 
-  </a> 
+<p align="left">  
   
   <a href="https://in.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
   <img src="https://user-images.githubusercontent.com/94699627/229367195-64099daa-0dbc-49bf-9bf1-232470ce2f06.png" alt="MATLAB" width="40" height="40"/> 
@@ -25,6 +21,10 @@ Email me at: **brahad.kokad@research.iiit.ac.in**
   <img src="https://user-images.githubusercontent.com/94699627/229367673-3141acd7-2d79-4e54-b59a-2fecd257fba7.png" alt="fusion360" width="40" height="40"/> 
   </a> 
 
+  <a href="https://www.verilog.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/94699627/229367114-8aaaf6f4-85c8-4c71-8fa1-9f916d1dd3da.png" alt="verilog" width="40" height="40"/> 
+  </a>  
+  
   <a href="http://bwrcs.eecs.berkeley.edu/Classes/IcBook/SPICE" target="_blank" rel="noreferrer"> 
   <img src="https://user-images.githubusercontent.com/94699627/229367290-9ba163c8-abb6-4200-962d-6e4fa74e0c78.png" alt="SPICE" width="40" height="40"/> 
   </a> 
