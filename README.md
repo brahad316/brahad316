@@ -1,5 +1,5 @@
 <h1>Hi, I'm Brahad!</h1>
-<h2>I'm into IoT, hardware, image processing and photography.</h3>
+<h2>I'm into IoT, Flexible electronics, image processing and photography.</h3>
 
 
 Email me at: **brahad.kokad@research.iiit.ac.in**
