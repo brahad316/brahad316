@@ -10,6 +10,7 @@ Email me at: **brahad.kokad@research.iiit.ac.in**
 <a href="https://instagram.com/brahad_kokad" target="blank"><img align="center" src="https://help.instagram.com/images/pages/settings/instagram/instagram.png" alt="brahad_kokad" height="30" width="auto" /></a>
 </p>
  -->
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leonardodipitt) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/radhikeshagrawal) 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/godofwarnings
