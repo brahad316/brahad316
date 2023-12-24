@@ -5,10 +5,14 @@
 Email me at: **brahad.kokad@research.iiit.ac.in**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left">
 <a href="https://linkedin.com/in/brahadk" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="brahadk" height="30" width="40" /></a>
 <a href="https://instagram.com/brahad_kokad" target="blank"><img align="center" src="https://help.instagram.com/images/pages/settings/instagram/instagram.png" alt="brahad_kokad" height="30" width="auto" /></a>
 </p>
+ -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brahadk) 
+[![Discord](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/607419297358282754)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brahad316)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
