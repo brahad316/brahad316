@@ -1,8 +1,9 @@
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=SUSE&weight=600&size=40&duration=3750&pause=800&color=67ccdb&center=true&vCenter=true&repeat=true&random=false&width=490&height=70&lines=I'm+Brahad." alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=SUSE&weight=600&size=40&duration=3750&pause=800&color=67ccdb&center=true&vCenter=true&repeat=true&random=false&width=490&height=70&lines=Hello!+I'm+Brahad." alt="Typing SVG" /></a>
 <h3 align="center">I'm an undergrad persuing my BTech and MS (by research) in electronics and Communication at IIIT Hyd, India.</h3>
 
-## Connect With Me
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExengzbGs0MjV2NW9zaHN5NXVzbnBsajJqM2JoNXNwbzdmYmN5YXA5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T8LzNUhFqCmWh9yRKs/giphy.webp" width="50"> Connect With Me
+
 <!-- <p align="left">
 <a href="https://linkedin.com/in/brahadk" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="brahadk" height="30" width="40" /></a>
 <a href="https://instagram.com/brahad_kokad" target="blank"><img align="center" src="https://help.instagram.com/images/pages/settings/instagram/instagram.png" alt="brahad_kokad" height="30" width="auto" /></a>
