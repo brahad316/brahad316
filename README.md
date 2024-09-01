@@ -16,7 +16,7 @@
 [![Gitter](https://img.shields.io/static/v1?style=for-the-badge&message=Gitter&color=ED1965&logo=Gitter&logoColor=FFFFFF&label=)](https://matrix.to/#/@brahad316:gitter.im)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brahad316)
 
-## <img src="https://giphy.com/gifs/batman-i-am-batmanday-jVxfSW38LajYdr9jSa" width="50"> About me
+## <img src="https://giphy.com/gifs/batman-i-am-batmanday-jVxfSW38LajYdr9jSa.gif" width="50"> About me
 
 ### Exploring VLSI Design flow
 
