@@ -22,15 +22,15 @@
 
 ### Exploring VLSI Design flow
 
-Aspiring to become a digital design engineer, experience with HDLs and basic tools relevant to the VLSI design flow. I have good fundamental knowledge about semiconductors, digital logic design and testing, analog circuits.  
+Aspiring to become a digital design engineer, experienced in HDLs and basic tools relevant to the VLSI design flow. I have strong fundamental knowledge about semiconductors, digital logic design and testing, analog circuits and more.  
 
 ### Flexible Electronics
 
-Have worked with velostat polymer as a piezoresistive device to design an in-shoe pressure sensing wearable device, and a smart chair equipped with many pressure sensors for posture prediction.
+Have worked with velostat polymer as a piezoresistive device to design IoT and Machine Learning based solutions to various problems, such as an in-shoe pressure sensing wearable device for surface characterisation, and a smart chair equipped with pressure sensor arrays for real time and accurate posture prediction.
 
 ### Photography and Image processing
 
-Have several years of photography experience, majorly with macro-photography and event photography. Have a strong understanding of post processing using Adobe Lightroom, and have also tried color grading videos in Davinci Resolve.
+Have several years of photography experience, majorly with macro-photography and event photography. Have a strong understanding of post processing using mainstream software like Adobe Lightroom, and have also tried color grading video in Davinci Resolve.
 
 ### Machine Learning and Data Analysis 
 
@@ -38,7 +38,7 @@ Have beginner level experience and understanding.
 
 ### Music is my lifesaver
 
-I play the guitar and bass, a bit of keys. I used to play harmonium a while ago. Music keeps me sane and eases my mind.
+I play the guitar and bass, a bit of keys and singing. I used to play harmonium a while ago. Music keeps me sane and eases my mind.
 
 ## My Main Projects
 
