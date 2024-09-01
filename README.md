@@ -16,9 +16,8 @@
 [![Gitter](https://img.shields.io/static/v1?style=for-the-badge&message=Gitter&color=ED1965&logo=Gitter&logoColor=FFFFFF&label=)](https://matrix.to/#/@brahad316:gitter.im)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brahad316)
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWR1OGx4OG1haGc2cTVvY3FtN24wMjR5Zzl6dW96a2x6Y2ExbHN3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jVxfSW38LajYdr9jSa/giphy.gif" width="50"> About me
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWR1OGx4OG1haGc2cTVvY3FtN24wMjR5Zzl6dW96a2x6Y2ExbHN3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jVxfSW38LajYdr9jSa/giphy.webp" width="50"> About me
 
-<iframe src="https://giphy.com/embed/jVxfSW38LajYdr9jSa" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/batman-i-am-batmanday-jVxfSW38LajYdr9jSa">via GIPHY</a></p>
 
 ### Exploring VLSI Design flow
 
