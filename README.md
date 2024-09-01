@@ -2,7 +2,7 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=40&duration=3750&pause=800&color=F76C93&center=true&vCenter=true&repeat=true&random=false&width=490&height=70&lines=Hi,+I'm+Brahad." alt="Typing SVG" /></a>
 <h3 align="center">I'm an undergrad persuing my BTech and MS (by research) in electronics and Communication at IIIT Hyd, India.</h3>
 
-## 🌐 Connect With Me
+## Connect With Me
 <!-- <p align="left">
 <a href="https://linkedin.com/in/brahadk" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="brahadk" height="30" width="40" /></a>
 <a href="https://instagram.com/brahad_kokad" target="blank"><img align="center" src="https://help.instagram.com/images/pages/settings/instagram/instagram.png" alt="brahad_kokad" height="30" width="auto" /></a>
@@ -16,7 +16,7 @@
 [![Gitter](https://img.shields.io/static/v1?style=for-the-badge&message=Gitter&color=ED1965&logo=Gitter&logoColor=FFFFFF&label=)](https://matrix.to/#/@brahad316:gitter.im)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brahad316)
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me
+## <img src="https://giphy.com/gifs/batman-i-am-batmanday-jVxfSW38LajYdr9jSa" width="50"> About me
 
 ### Exploring VLSI Design flow
 
