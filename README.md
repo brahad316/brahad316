@@ -1,5 +1,5 @@
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=40&duration=3750&pause=800&color=F76C93&center=true&vCenter=true&repeat=true&random=false&width=490&height=70&lines=Hi,+I'm+Brahad." alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=SUSE&weight=600&size=40&duration=3750&pause=800&color=67ccdb&center=true&vCenter=true&repeat=true&random=false&width=490&height=70&lines=I'm+Brahad." alt="Typing SVG" /></a>
 <h3 align="center">I'm an undergrad persuing my BTech and MS (by research) in electronics and Communication at IIIT Hyd, India.</h3>
 
 ## Connect With Me
