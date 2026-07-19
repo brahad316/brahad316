@@ -1,6 +1,6 @@
 <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=SUSE&weight=600&size=40&duration=3750&pause=800&color=67ccdb&center=true&vCenter=true&repeat=true&random=false&width=490&height=70&lines=Hello!+I'm+Brahad." alt="Typing SVG" /></a>
-<h3 align="center">I am a hardware engineer working on on quantum systems at <a href="https://quanfluence.com/">Quanfluence</a>.</h3>
+<h3 align="center">I am a hardware engineer working on on quantum systems at <a href="https://quanfluence.com" target="_blank" rel="noopener noreferrer">Quanfluence</a>.</h3>
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExengzbGs0MjV2NW9zaHN5NXVzbnBsajJqM2JoNXNwbzdmYmN5YXA5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T8LzNUhFqCmWh9yRKs/giphy.webp" width="50"> Connect With Me
 
