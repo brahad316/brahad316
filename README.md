@@ -45,6 +45,7 @@ I play the guitar and bass, a bit of keys and singing. I used to play harmonium 
 ## My Main Projects
 
 <p align="left">
+    <a href="https://github.com/brahad316/verilog_if_else_parser"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brahad316&repo=verilog_if_else_parser&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="FAN"></a>
     <a href="https://github.com/brahad316/FAN-ATPG"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brahad316&repo=FAN-ATPG&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="FAN"></a>
     <a href="https://github.com/brahad316/Y86-64bit-processor"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brahad316&repo=Y86-64bit-processor&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="FAN"></a>
     <a href="https://github.com/brahad316/NEO-hardware-realisation"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brahad316&repo=NEO-hardware-realisation&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="FAN"></a>
